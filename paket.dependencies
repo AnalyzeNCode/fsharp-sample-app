@@ -1,0 +1,5 @@
+source https://api.nuget.org/v3/index.json
+storage: none
+framework: auto-detect
+
+nuget Giraffe ~> 5.0.0-rc-6 rc
